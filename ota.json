@@ -1,0 +1,7 @@
+{
+  "ota_version": 1,
+  "new_apn": "ims.ota.test",
+  "apn_type": "ims",
+  "mcc": "334",
+  "mnc": "50"
+}
